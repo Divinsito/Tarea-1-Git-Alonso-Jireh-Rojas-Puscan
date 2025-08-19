@@ -19,4 +19,15 @@ Proyectos que se ha creado:
 - Proyecto de pagina web usando el framework de Laravel 11
 - Proyecto de javaweb.
 
+Experiencia previa:
+
+He desarrollado individualmente una pagina web en el framework laravel 11 para la empresa de la UNIVERSIDAD NACIONAL DE INGENIERIA, un sitio para docente con sistema de inicio de sesion, ver los horarios, cursos que tiene y los alumnos inscritos, todo esto teniendo como datos un archivo .json para las pruebas y para la version final usamos la base de datos, gestionandolo desde MYSQL WORKBENCH.
+
+Este proyecto ha destacado por el diseño y funcionamiento.
+
+Objetivos para final de año:
+
+Aprender Javascript hasta NODE.JS.
+
+Gracias.
 
